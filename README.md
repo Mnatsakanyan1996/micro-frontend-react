@@ -1,2 +1,8 @@
 # Micro-Frontend Architecture
-Micro-Frontends using React
+
+Packages
+
+React JS
+
+`react-app-rewired`
+https://www.npmjs.com/package/react-app-rewired
