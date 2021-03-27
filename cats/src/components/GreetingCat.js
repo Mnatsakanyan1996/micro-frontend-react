@@ -1,6 +1,5 @@
 function GreetingCat(props) {
   const { greeting } = props.match.params;
-  console.log(greeting)
   const greetingCatImagePath = `https://cataas.com/cat/says/${greeting}`;
 
   return (
