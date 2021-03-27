@@ -1,2 +1,2 @@
-# micro-frontend-react
-Develop Micro-Frontends using React
+# Micro-Frontend Architecture
+Micro-Frontends using React
